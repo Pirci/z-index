@@ -1,0 +1,43 @@
+.container {
+  margin: 0 auto;
+  width: 90%;
+  min-height: 700px;
+  background-color: rgb(245, 245, 220);
+  position: relative;
+  z-index: 1;
+}
+
+.box {
+  width: 35%;
+  height: 260px;
+  position: absolute;
+}
+
+#red {
+  background-color: rgb(251, 69, 0);
+  z-index: 2;
+  left: 0;
+  top: 0;
+}
+
+#blue {
+  background-color: rgb(70, 130, 180);
+  z-index: 4;
+  top: 50px;
+  left: 450px;
+}
+
+#green {
+  background-color: rgb(154, 205, 50);
+  z-index: 3;
+  top: 180px;
+  left: 160px;
+}
+
+h1 {
+  position: absolute;
+  font-size: 3.9rem;
+  color: white;
+  top: 40px;
+  left: 50px;
+}
