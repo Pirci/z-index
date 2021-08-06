@@ -1,9 +1,6 @@
-### Seytech Fullstack Software Developer Bootcamp
+### Z-Index Page
 
-> HTML & CSS #6th Homework Project (Z-Index).
-
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
-
+> HTML & CSS Z-Index Project.
 ## Live Demo
 
 Preview: https://pirci.github.io/z-index/
