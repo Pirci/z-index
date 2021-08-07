@@ -1,3 +1,4 @@
+/* Page container style */
 .container {
   margin: 0 auto;
   width: 90%;
@@ -13,6 +14,7 @@
   position: absolute;
 }
 
+/* Red box style */
 #red {
   background-color: rgb(251, 69, 0);
   z-index: 2;
@@ -20,6 +22,7 @@
   top: 0;
 }
 
+/* Blue box style */
 #blue {
   background-color: rgb(70, 130, 180);
   z-index: 4;
@@ -27,6 +30,7 @@
   left: 450px;
 }
 
+/* Green box style */
 #green {
   background-color: rgb(154, 205, 50);
   z-index: 3;
